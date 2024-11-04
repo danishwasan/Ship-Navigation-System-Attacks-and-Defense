@@ -6,7 +6,6 @@ Repository Structure
 
 	•	data/: Contains the dataset generated from simulated cyber-attacks on ship navigation subsystems. Each file includes attack labels, timestamps, and associated data points for different attack scenarios.
 	•	scenarios/: Provides configurations and descriptions for each attack scenario used to simulate cyber threats on navigation systems, detailing specific parameters and configurations.
-	•	scripts/: Includes Python and other relevant scripts used for simulation, data generation, and applying defense mechanisms like multi-layer cross-validation.
 
 Key Features
 
