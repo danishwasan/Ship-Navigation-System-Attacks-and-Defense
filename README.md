@@ -22,8 +22,7 @@ How to Use
 
 Citation
 
-If you use this dataset or scenarios in your research, please cite our work as follows:
-(Add citation format)
+Will Be Availabe Soon (Cyber-Attacks: Securing Ship Navigation Systems using Multi-Layer Cross-Validation Defense)
 
 License
 
