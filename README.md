@@ -17,7 +17,7 @@ How to Use
 
 	1.	Clone the repository.
 	2.	Refer to the README.md in each folder for detailed instructions on using the dataset and running the simulation scenarios.
-	3.	Follow the scripts in the scripts/ directory to replicate the simulation and test the effectiveness of the multi-layer cross-validation defense mechanisms.
+	3.	Follow the scripts in the Scenarios/ directory to replicate the simulation and test the effectiveness of the multi-layer cross-validation defense mechanisms.
 
 Citation
 
