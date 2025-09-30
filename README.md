@@ -2,6 +2,18 @@
 
 This repository provides a comprehensive dataset and simulation resources focused on cybersecurity for ship navigation systems. It includes datasets generated from various cyber-attack scenarios, targeting critical subsystems such as GPS, Inertial Navigation System (INS), sonar, autopilot, depth control, and sensor fusion. Additionally, this repository offers simulation scenarios and defense mechanism models designed to test and enhance the resilience of ship navigation systems against adversarial threats.
 
+# What We Propose
+
+Traditional defenses often rely on hardware redundancy, which can still be vulnerable to spoofed signals. Instead, this project introduces a software-only onboard defense mechanism that can be integrated into existing ship navigation systems:
+	•	Cross-Sensor Consistency Checks
+Compare independent sensors (GPS, INS, sonar, radar, depth) and flag anomalies when data does not match expected consistency.
+	•	Sensor Fusion with Kalman Filtering
+Integrate multiple sensor inputs to suppress noise and minimize the impact of compromised data.
+	•	Control Validation Logic
+Allow course corrections or evasive actions only when sensor data is consistent and trustworthy.
+
+This multi-layer defense approach ensures that ships can detect, filter, and mitigate manipulated data in real time, without requiring new hardware.
+
 Repository Structure
 
 	•	data/: Contains the dataset generated from simulated cyber-attacks on ship navigation subsystems. Each file includes attack labels, timestamps, and associated data points for different attack scenarios.
