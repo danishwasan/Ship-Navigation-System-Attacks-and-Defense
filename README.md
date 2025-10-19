@@ -32,8 +32,21 @@ How to Use
 	3.	Follow the scripts in the Scenarios/ directory to replicate the simulation and test the effectiveness of the multi-layer cross-validation defense mechanisms.
 
 Citation
-
-Will Be Availabe Soon (Cyber-Attacks: Securing Ship Navigation Systems using Multi-Layer Cross-Validation Defense)
+@article{VASAN2026104706,
+title = {Cyber-attacks: Securing ship navigation systems using multi-layer cross-validation defense},
+journal = {Computers & Security},
+volume = {160},
+pages = {104706},
+year = {2026},
+issn = {0167-4048},
+doi = {https://doi.org/10.1016/j.cose.2025.104706},
+url = {https://www.sciencedirect.com/science/article/pii/S0167404825003955},
+author = {Danish Vasan and Mohammad Hammoudeh and Adel F. Ahmed and Hamad Naeem},
+keywords = {Ship navigation system attacks, GPS spoofing, INS data corruption, Sonar manipulation, Depth control interference, Autopilot control interference, Collision avoidance system tampering, Sensor fusion tampering, Cross validation defense mechanisms},
+abstract = {The safety and reliability of ship navigation systems are critical for secure maritime operations. With growing reliance on digital tools, these systems face increasing vulnerability to cyber–physical threats such as GPS spoofing, sensor manipulation, and control logic interference. This research presents a comprehensive threat model across key navigation subsystems and proposes a multi-layer defense strategy based on cross-sensor validation. Rather than relying on hardware redundancy or statistical anomaly filters, our framework validates sensor data and control decisions through consistency checks across GPS, INS, sonar, and depth systems. Standard filtering techniques, such as Kalman filters, are used for state estimation. Experimental simulations across various attack scenarios show that the proposed defense restores navigational accuracy and operational safety, reducing error by over 99% in most subsystems. A public dataset and codebase are released to support future maritime cybersecurity research on GitHub11Dataset and code available at: https://github.com/danishwasan/Ship-Navigation-System-Attacks-and-Defense..}
+}
+Free Access Link
+https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Ftracking%2Farticle%2Fdetails.do%3Faid=104706%26jid=COSE%26surname=Vasan/1/01020199d0963a8e-62776654-144f-4a67-9a8f-f79716dd53dc-000000/p_cF684PcLrl53ujZqNZkf8cXTo=447
 
 License
 
