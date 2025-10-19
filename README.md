@@ -32,6 +32,7 @@ How to Use
 	3.	Follow the scripts in the Scenarios/ directory to replicate the simulation and test the effectiveness of the multi-layer cross-validation defense mechanisms.
 
 Citation
+
 @article{VASAN2026104706,
 title = {Cyber-attacks: Securing ship navigation systems using multi-layer cross-validation defense},
 journal = {Computers & Security},
@@ -47,6 +48,7 @@ abstract = {The safety and reliability of ship navigation systems are critical f
 }
 
 Free Access Link
+
 https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Ftracking%2Farticle%2Fdetails.do%3Faid=104706%26jid=COSE%26surname=Vasan/1/01020199d0963a8e-62776654-144f-4a67-9a8f-f79716dd53dc-000000/p_cF684PcLrl53ujZqNZkf8cXTo=447
 
 License
